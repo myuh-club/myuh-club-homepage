@@ -24,7 +24,7 @@ For displaying the RIOS, we plan to use a format similar to card objects in mete
 ![Warby Parker Shopping](https://myuh-club.github.io/images/WarbyParker.png)
   
 ## Developers
-- Yusuke add uh usernames
+- Yusuke (yusukemh@hawaii.edu)
 - Ronnie add uh usernames
 - Nick add uh usernames
 - Quinne (qauchida@hawaii.edu)
