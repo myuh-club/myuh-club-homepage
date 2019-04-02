@@ -8,6 +8,7 @@ The main goal of this project is to use software engineering to create a platfor
 - will feature the 5 most populus clubs on campus 
 - will allow users to add clubs they are interested in to their "cart"
 - will have options for users to send a request to organizers for more information on joining clubs
+- will allow club organizers to edit their club's information
 
 ## Page Ideas
 Nick presented a sketch of his ideas so that he could better communicate his thoughts to the group.
@@ -23,7 +24,7 @@ For displaying the RIOS, we plan to use a format similar to card objects in mete
 ![Warby Parker Shopping](https://myuh-club.github.io/images/WarbyParker.png)
   
 ## Developers
-- Yusuke
-- Ronnie
-- Nick
+- Yusuke add uh usernames
+- Ronnie add uh usernames
+- Nick add uh usernames
 - Quinne (qauchida@hawaii.edu)
