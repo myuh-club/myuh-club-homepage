@@ -13,17 +13,14 @@ The main goal of this project is to use software engineering to create a platfor
 Nick presented a sketch of his ideas so that he could better communicate his thoughts to the group.
 [Nick's drawings]()
 
-Quinne also made a drawing of a combination of hers, Ronnie's and Yusuke's ideas.
-[Quinne's drawings] ()
-
 Nick suggested we try to make a landing similar to the Google Home page.
-[Google Hompage]()
+![Google Hompage](https://myuh-club.github.io/images/Google.png)
 
 Another idea for the landing page could be a layout similar to Twitter's landing page. 
-[Twitter Landing]()
+![Twitter Landing](https://myuh-club.github.io/images/Twitter.png)
 
 For displaying the RIOS, we plan to use a format similar to card objects in meteor. We are also aiming to have a simple and functional interface that is similar to shopping such as the Warby Parker site.
-[Warby Parker Shopping]()
+![Warby Parker Shopping](https://myuh-club.github.io/images/WarbyParker.png)
   
 ## Developers
 - Yusuke
