@@ -12,7 +12,8 @@ The main goal of this project is to use software engineering to create a platfor
 - allow club organizers to edit their club's information
 
 ## Page Ideas
-Nick presented a sketch of his ideas so that he could better communicate his thoughts to the group. He sugested an approach similar to google (down below) but we could tailor the overall design to fit our specific needs. On the left hand side is a prototype sketch of how we would display the groups, which is similar to the card objects in Meteor. Google's homepage could serve as a template for the landing page of our site.
+Nick presented a sketch of his ideas so that he could better communicate his thoughts to the group. He sugested an approach similar to Google, (as shown below) but we could tailor the overall design to fit our specific needs, such as in his sketch. On the left hand side is a prototype sketch of how we could display the groups, which is similar to the card objects in Meteor. 
+
 ![Nick's drawings](https://myuh-club.github.io/images/nic.jpg)
 
 ![Google Hompage](https://myuh-club.github.io/images/Google.png)
