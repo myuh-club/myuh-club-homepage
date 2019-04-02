@@ -26,7 +26,7 @@ For displaying the RIOS, we plan to use a format similar to the contact card obj
 
 ![Warby Parker Shopping](https://myuh-club.github.io/images/WarbyParker.png)
 
-Our reasons for picking these examples are because all of these sites are simplistic in design, which is a common trait that members of the group gravitate towards. One of our peripheral goals is to have a user interface that is simple, streamlined and functional. We hope that a new user will be able to intuitively use the site with little to no instruction.
+Our reasons for picking these examples are because all of these sites are simplistic in design, which is a common trait that members of this group gravitate towards. One of our peripheral goals is to have a user interface that is simple, streamlined and functional. We hope that a new user will be able to intuitively use the site with little to no instruction.
   
 ## Developers
 - Yusuke Hatanaka (yusukemh@hawaii.edu)
