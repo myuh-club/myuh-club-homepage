@@ -13,7 +13,7 @@ The main goal of this project is to use software engineering to create a platfor
 
 ## Page Ideas
 Nick presented a sketch of his ideas so that he could better communicate his thoughts to the group.
-[Nick's drawings]()
+![Nick's drawings](https://myuh-club.github.io/images/nic.jpg)
 
 Nick suggested we try to make a landing similar to the Google Home page.
 ![Google Hompage](https://myuh-club.github.io/images/Google.png)
