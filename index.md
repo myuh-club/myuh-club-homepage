@@ -17,8 +17,8 @@ Nick presented a sketch of his ideas so that he could better communicate his tho
 ![Nick's drawings](https://myuh-club.github.io/images/nic.jpg)
 
 Here we have Yusuke's sketches of the landing page and home pages.
-![Yusuke's sketch](https://myuh-club.github.io/images/sketch1.png)
-![Yusuke's sketch](https://myuh-club.github.io/images/sketch2.png)
+![Yusuke's sketch](https://myuh-club.github.io/images/sketch1.jpg)
+![Yusuke's sketch](https://myuh-club.github.io/images/sketch2.jpg)
 
 Our reasons for picking these examples are because all of these sites are simplistic in design, which is a common trait that members of this group gravitate towards. One of our peripheral goals is to have a user interface that is simple, streamlined and functional. We hope that a new user will be able to intuitively use the site with little to no instruction.
   
