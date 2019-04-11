@@ -1,7 +1,7 @@
 
 [Find our project source code here.](https://github.com/myuh-club-source.github.io)
 
-[Find our project application here.](myuhclub.meteorapp.con)
+[Find our project application here.](myuhclub.meteorapp.com)
 
 [Find our project milestone 1 here.](https://github.com/myuh-club/myuh-club-source/projects/1)
 
