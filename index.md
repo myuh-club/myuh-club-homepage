@@ -16,16 +16,8 @@ Nick presented a sketch of his ideas so that he could better communicate his tho
 
 ![Nick's drawings](https://myuh-club.github.io/images/nic.jpg)
 
-![Google Hompage](https://myuh-club.github.io/images/Google.png)
-
-Another idea for the landing page could be a layout similar to Twitter's landing page. In Twitter's implementation, the user interface is designed to heavily suggest users to make an account.
-
-![Twitter Landing](https://myuh-club.github.io/images/Twitter.png)
-
-For displaying the RIOS, we plan to use a format similar to the contact card objects in Meteor. We are also aiming to have a simple and functional interface that is similar to shopping such as the Warby Parker site. In place of the images for glasses, we could put an image or logo pertaining to that specific club. Instead of the style for the glasses, it could be the name of the club. 
-
-![Warby Parker Shopping](https://myuh-club.github.io/images/WarbyParker.png)
-
+![Yusuke's drawings](https://myuh-club.github.io/images/sketch1.jpg)
+![Yusuke's drawings](https://myuh-club.github.io/images/sketch2.jpg)
 Our reasons for picking these examples are because all of these sites are simplistic in design, which is a common trait that members of this group gravitate towards. One of our peripheral goals is to have a user interface that is simple, streamlined and functional. We hope that a new user will be able to intuitively use the site with little to no instruction.
   
 ## Developers
