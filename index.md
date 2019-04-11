@@ -1,8 +1,8 @@
 This is the homepage for MyUH Clubs, a beta site and project for ICS 314 in the spring 2019 semester. 
 
-[Find our homepage source code here.](https://github.com/myuh-club.github.io)
-
 [Find our project source code here.](https://github.com/myuh-club-source.github.io)
+
+[Find our project application here.](myuhclub.meteorapp.con)
 
 [Find our project milestone 1 here.](https://github.com/myuh-club/myuh-club-source/projects/1)
 
