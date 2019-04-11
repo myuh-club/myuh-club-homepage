@@ -16,16 +16,34 @@ The main goal of this project is to use software engineering to create a platfor
 - have options for users to send a request to organizers for more information on joining clubs
 - allow club organizers to edit their club's information
 
-## Page Ideas
-Nick presented a sketch of his ideas so that he could better communicate his thoughts to the group. He sugested an approach similar to Google, (as shown below) but we could tailor the overall design to fit our specific needs, such as in his sketch. On the left hand side is a prototype sketch of how we could display the groups, which is similar to the card objects in Meteor. 
-<p align="center">
+## Rough Draft
+Below are rough sketches the group composed during a brainstorming session. The group decided that the design philosophy of this project is going to be, 'simple is best.' One of our peripheral goals is to have a user interface that is simple, streamlined and functional. We hope that a new user will be able to intuitively use the site with little to no instruction.
 
+<p align="center">
 <img src='https://myuh-club.github.io/images/nic.jpg' width='500' height='400'/>
-<img src='https://myuh-club.github.io/images/sketch1.jpg' width='500' height='400' centered>
+</p>
+
+<h5>Rough Sketch 1</h5>
+
+Above we can see sketches from the first group meeting that envision the possible designs for the landing page.
+
+<p align="center">
 <img src='https://myuh-club.github.io/images/sketch2.jpg' width='500' height='400' centered>
 </p>
-Our reasons for picking these examples are because all of these sites are simplistic in design, which is a common trait that members of this group gravitate towards. One of our peripheral goals is to have a user interface that is simple, streamlined and functional. We hope that a new user will be able to intuitively use the site with little to no instruction.
- 
+
+
+<h5>Rough Sketch 2</h5>
+
+Above is a bulleted list of components we wanted to have for the landing page. The group eventually agreed that the two boxes portrayed in the sketch currently will be implemented on two seperate pages. The top box will be the links for the landing page and the box on the bottom will be the basis of a registered user's homepage.
+
+
+<p align="center">
+<img src='https://myuh-club.github.io/images/sketch1.jpg' width='500' height='400' centered>
+</p>
+
+<h5>Rough Sketch 3</h5> 
+
+Above is another sketch in the bulleted list format. 
 
 ## Developers
 - Yusuke Hatanaka (yusukemh@hawaii.edu)
