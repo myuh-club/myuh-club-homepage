@@ -1,4 +1,3 @@
-This is the homepage for MyUH Clubs, a beta site and project for ICS 314 in the spring 2019 semester. 
 
 [Find our project source code here.](https://github.com/myuh-club-source.github.io)
 
