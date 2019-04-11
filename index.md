@@ -1,5 +1,11 @@
 This is the homepage for MyUH Clubs, a beta site and project for ICS 314 in the spring 2019 semester. 
 
+[Find our homepage source code here.](https://github.com/myuh-club.github.io)
+
+[Find our project source code here.](https://github.com/myuh-club-source.github.io)
+
+[Find our project milestone 1 here.]()
+
 ## Goals 
 The main goal of this project is to use software engineering to create a platform of effective communication for the University of Hawaii's various extra curriculur activities. [There are over 200 RIOs (Registered Indepedent Organizations) affiliated with UH Manoa](http://www.manoa.hawaii.edu/studentlife/studentorg/rio.php), which can be overwhelming to students attempting to determine which clubs to join. If we are able to gather and present information about the RIOS on campus in a simple but effective manner, as this may increase a student's opportunity to find a RIO that matches their interests.
 
@@ -17,9 +23,12 @@ Nick presented a sketch of his ideas so that he could better communicate his tho
 ![Nick's drawings](https://myuh-club.github.io/images/nic.jpg)
 
 ![Yusuke's drawings](https://myuh-club.github.io/images/sketch1.jpg)
+
 ![Yusuke's drawings](https://myuh-club.github.io/images/sketch2.jpg)
+
 Our reasons for picking these examples are because all of these sites are simplistic in design, which is a common trait that members of this group gravitate towards. One of our peripheral goals is to have a user interface that is simple, streamlined and functional. We hope that a new user will be able to intuitively use the site with little to no instruction.
-  
+ 
+
 ## Developers
 - Yusuke Hatanaka (yusukemh@hawaii.edu)
 - Ronnie Kauanoe (rkauanoe@hawaii.edu)
