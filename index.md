@@ -4,7 +4,7 @@ This is the homepage for MyUH Clubs, a beta site and project for ICS 314 in the 
 
 [Find our project source code here.](https://github.com/myuh-club-source.github.io)
 
-[Find our project milestone 1 here.]()
+[Find our project milestone 1 here.](https://github.com/myuh-club/myuh-club-source/projects/1)
 
 ## Goals 
 The main goal of this project is to use software engineering to create a platform of effective communication for the University of Hawaii's various extra curriculur activities. [There are over 200 RIOs (Registered Indepedent Organizations) affiliated with UH Manoa](http://www.manoa.hawaii.edu/studentlife/studentorg/rio.php), which can be overwhelming to students attempting to determine which clubs to join. If we are able to gather and present information about the RIOS on campus in a simple but effective manner, as this may increase a student's opportunity to find a RIO that matches their interests.
