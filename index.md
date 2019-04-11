@@ -1,5 +1,5 @@
 
-[Find our project source code here.](https://github.com/myuh-club-source.github.io)
+[Find our project source code here.](https://github.com/myuh-club/myuh-club.github.io)
 
 [Find our project application here.](http://myuhclub.meteorapp.com)
 
