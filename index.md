@@ -28,7 +28,7 @@ Below are screen shots from our site that is being hosted by Galaxy. The group s
 Above is the image you'd see when you first load the site. 
 
 <p align="center">
-<img src='https://myuh-club.github.io/images/LandingPage.png' width='700' height='400'/>
+<img src='https://myuh-club.github.io/images/LandingPage.png' width='900' height='400'/>
 </p>
 
 <h5>Landing Page</h5>
