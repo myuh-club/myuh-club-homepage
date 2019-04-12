@@ -5,6 +5,8 @@
 
 [Find our project milestone 1 here.](https://github.com/myuh-club/myuh-club-source/projects/1)
 
+[Find our project milestone 2 here.](https://github.com/myuh-club/myuh-club-source/projects/2)
+
 ## Goals 
 The main goal of this project is to use software engineering to create a platform of effective communication for the University of Hawaii's various extra curriculur activities. [There are over 200 RIOs (Registered Indepedent Organizations) affiliated with UH Manoa](http://www.manoa.hawaii.edu/studentlife/studentorg/rio.php), which can be overwhelming to students attempting to determine which clubs to join. If we are able to gather and present information about the RIOS on campus in a simple but effective manner, as this may increase a student's opportunity to find a RIO that matches their interests.
 
