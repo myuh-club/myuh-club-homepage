@@ -60,7 +60,7 @@ Above is the "About Us" page that all users will have access to if they needed t
 [Find the About Us page here.](http://myuhclub.meteorapp.com/#/list) Be advised the user will not be able to see this page if they are not logged in. The user will be redirected to the sign in page.
 
 <p align="center">
-<img src='https://myuh-club.github.io/images/about.png' width='700' height='400' centered>
+<img src='https://myuh-club.github.io/images/report.png' width='700' height='400' centered>
 </p>
 
 <h5>Report a Problem</h5>
@@ -70,12 +70,13 @@ Above is a screenshot of the "Report a Problem" page. This page is accessible to
 [Find the Report a Problem page here.](http://myuhclub.meteorapp.com/#/reportproblem)  Be advised the user will not be able to see this page if they are not logged in. The user will be redirected to the sign in page.
 
 <p align="center">
-<img src='https://myuh-club.github.io/images/about.png' width='700' height='400' centered>
+<img src='https://myuh-club.github.io/images/addClubs.png' width='700' height='400' centered>
+<img src='https://myuh-club.github.io/images/deleteClubs.png' width='700' height='400' centered>
 </p>
 
 <h5>Add/Delete Clubs page</h5>
 
-Above is a screenshot of the "Add/Delete Clubs" page. This page is accesible to logged in administrators. Currently, this page has a segment dedicated to adding and deleting clubs. This page is very similar in functionality to the "Report a Problem" page. The main difference is that once the administrator clicks the submit button (with all the appropriate fields filled out), the entry appears in the delete segment at the bottom of the page. If the administrator clicks the delete button, the entry dissapears.
+Above is a screenshot of the "Add/Delete Clubs" page. This page is accesible to logged in administrators. Currently, this page has a segment dedicated to adding and deleting clubs. This page is very similar in functionality to the "Report a Problem" page. The main difference is that once the administrator clicks the submit button (with all the appropriate fields filled out), the entry appears in the "Delete" segment at the bottom of the page. If the administrator clicks the delete button, the entry dissapears. In the screenshot of the "Delete" segment (as seen above), there are 2 example clubs that have been made, based off the user input taken from the "Add" segment.
 
 [Find the Add/Delete Clubs page here.](http://myuhclub.meteorapp.com/#/aD) Be advised the user will not be able to see this page if they are not logged in as an admin. The user will be redirected to the sign in page.
 
