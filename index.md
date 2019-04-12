@@ -69,6 +69,21 @@ Above is a screenshot of the "Report a Problem" page. This page is accessible to
 
 [Find the Report a Problem page here.](http://myuhclub.meteorapp.com/#/reportproblem)  Be advised the user will not be able to see this page if they are not logged in. The user will be redirected to the sign in page.
 
+<h5>Edit Clubs</h5>
+
+<p align="center">
+<img src='https://myuh-club.github.io/images/edit.png' width='700' height='400' centered>
+</p>
+
+Above is a screenshot of the "Edit Clubs" page. This page is accesible to logged in administrators. Administrators can view and edit all of the clubs that have been added. If the administrator selects the "Edit Stuff" link, they will be redirected to a page (seen below) where the administrator can input a name, a quantity and a condition. If any of the inputs are left blank, the administrator will recieve a notification under the submit button that details the input that is required. 
+
+<p align="center">
+<img src='https://myuh-club.github.io/images/editor.png' width='700' height='400' centered>
+</p>
+
+
+[Find the "Edit Clubs" page here.](http://myuhclub.meteorapp.com/#/aE)  Be advised the user will not be able to see this page if they are not logged in. The user will be redirected to the sign in page.
+
 <p align="center">
 <img src='https://myuh-club.github.io/images/addClubs.png' width='700' height='400' centered>
 <img src='https://myuh-club.github.io/images/deleteClubs.png' width='300' height='100' centered>
