@@ -18,7 +18,7 @@ The main goal of this project is to use software engineering to create a platfor
 - have options for users to send a request to organizers for more information on joining clubs
 - allow club organizers to edit their club's information
 
-## End Of Week 1 (Milestone 1 Progress)
+## Milestone 1
 Below are screen shots from our site that is being hosted by Galaxy. The group split up and covered different topics including an about us page, club and report pages, admin and organizer pages, and the search page which have all been added. Moving forward we are discussing issues and concerns each of us have with the functionality of certain pages.
 
 <p align="center">
