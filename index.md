@@ -37,7 +37,7 @@ Above is a screenshot of the landing page, which is the first thing you'd see wh
 
 Above is a visual comparison of the difference in the navigation bar between signed in administrators(top navigation bar) and regular users (bottom navigation bar). As of this image the view report page and edit club page are still under maintenance. The navigation bar components are seen conditionally based on who is logged in. 
 
-[Find our landing page here.][Find our landing page here.](http://myuhclub.meteorapp.com/#/) However, be advised that if the user is not logged in, they will not be able to see these components. Even when a user is logged in, the navigation bar will change based on what role that user has. 
+[Find our landing page here.](http://myuhclub.meteorapp.com/#/) However, be advised that if the user is not logged in, they will not be able to see these components. Even when a user is logged in, the navigation bar will change based on what role that user has. 
 
 <p align="center">
 <img src='https://myuh-club.github.io/images/homepage.png' width='700' height='400' centered>
