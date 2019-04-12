@@ -16,6 +16,33 @@ The main goal of this project is to use software engineering to create a platfor
 - have options for users to send a request to organizers for more information on joining clubs
 - allow club organizers to edit their club's information
 
+## End Of Week 1 (Milestone 1 Progress)
+Below are screen shots from our site that is being hosted by Galaxy. The group split up and covered different topis including an about us page, club and report pages, admin and organizer pages, and the search page which have all been added. Moving forward we are discussing issues and concerns each of us have with the functionality of certain pages.
+
+<p align="center">
+<img src='https://myuh-club.github.io/images/landing.png' width='700' height='400'/>
+</p>
+
+<h5>Landing Page (signed in as admin)</h5>
+
+Above is the image you'd see when first signed in as an admin (Landing page). As of this image the view report page and edit club page are still under maintenance.
+
+<p align="center">
+<img src='https://myuh-club.github.io/images/homepage.png' width='700' height='400' centered>
+</p>
+
+<h5>Dashboard</h5>
+
+Above is the "Dashboard" page that will be used to direct users to the three main features for signed in user (favorites, search, and reports) and serve as a notification center as well.
+
+<p align="center">
+<img src='https://myuh-club.github.io/images/about.png' width='700' height='400' centered>
+</p>
+
+<h5>About Us</h5> 
+
+Above is the "About Us" page that all users will have access to if they needed to get in contact with any of us inregards to the site. 
+
 ## Rough Draft
 Below are rough sketches the group composed during a brainstorming session. The group decided that the design philosophy of this project is going to be, 'simple is best.' One of our peripheral goals is to have a user interface that is simple, streamlined and functional. We hope that a new user will be able to intuitively use the site with little to no instruction.
 
