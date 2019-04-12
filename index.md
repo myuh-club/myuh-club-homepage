@@ -13,13 +13,11 @@ The main goal of this project is to use software engineering to create a platfor
 ## Services 
 - Provide a master list of all clubs
 - Provide filters for users to search for clubs based on certain interests or majors
-- feature the 5 most popular clubs on campus 
-- allow users to add clubs they are interested in to their "cart"
-- have options for users to send a request to organizers for more information on joining clubs
+- allow users to add clubs they are interested in to their favorites
 - allow club organizers to edit their club's information
 
 ## Milestone 1
-Below are screen shots from our site that is being hosted by Galaxy. The group split up and covered different topics including an about us page, club and report pages, admin and organizer pages, and the search page which have all been added. Moving forward we are discussing issues and concerns each of us have with the functionality of certain pages.
+Below are screen shots from our site that is being hosted by Galaxy. The group has produced the landing page, a Dashboard page, an About Us page, a Report a Problem page, an Add/Delete page and an Edit page. Moving forward we are discussing issues and concerns each of us have with the functionality of certain pages.
 
 <p align="center">
 <img src='https://myuh-club.github.io/images/unsignedLanding.png' width='700' height='400'/>
