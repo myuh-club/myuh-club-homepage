@@ -27,7 +27,9 @@ Below are screen shots from our site that is being hosted by Galaxy. The group s
 
 <h5>Landing Page</h5>
 
-Above is the image you'd see when you first load the site. 
+Above is a screenshot of the landing page, which is the first thing you'd see when you load the site. 
+
+[Find our landing page here.](http://myuhclub.meteorapp.com/#/)
 
 <p align="center">
 <img src='https://myuh-club.github.io/images/LandingPage.png' width='900' height='400'/>
@@ -35,7 +37,8 @@ Above is the image you'd see when you first load the site.
 
 <h5>Landing Page</h5>
 
-Above is a visual representation of the difference in the navigation bar between signed in users and admins. As of this image the view report page and edit club page are still under maintenance.
+Above is a visual comparison of the difference in the navigation bar between signed in users and admins. As of this image the view report page and edit club page are still under maintenance. The navigation bar components are seen conditionally based on who is logged in. 
+[Find our landing page here.][Find our landing page here.](http://myuhclub.meteorapp.com/#/) However, be advised that if the user is not logged in, they will not be able to see these components. Even when a user is logged in, the navigation bar will change based on what role that user has. 
 
 <p align="center">
 <img src='https://myuh-club.github.io/images/homepage.png' width='700' height='400' centered>
@@ -44,6 +47,7 @@ Above is a visual representation of the difference in the navigation bar between
 <h5>Dashboard</h5>
 
 Above is the "Dashboard" page that will be used to direct users to the three main features for signed in user (favorites, search, and reports) and serve as a notification center as well.
+[Find the dashboard here.](http://myuhclub.meteorapp.com/#/add) Be advised the user will not be able to see the dashboard if they are not logged in. The user will be redirected to the log in page.
 
 <p align="center">
 <img src='https://myuh-club.github.io/images/about.png' width='700' height='400' centered>
@@ -51,7 +55,8 @@ Above is the "Dashboard" page that will be used to direct users to the three mai
 
 <h5>About Us</h5> 
 
-Above is the "About Us" page that all users will have access to if they needed to get in contact with any of us inregards to the site. 
+Above is the "About Us" page that all users will have access to if they needed to get in contact with any of us in regards to the site. The card components link to each developer's proffesional portfolio.
+[Find the About Us page here.](http://myuhclub.meteorapp.com/#/list) Be advised the user will not be able to see the dashboard if they are not logged in. The user will be redirected to the log in page.
 
 ## Rough Draft
 Below are rough sketches the group composed during a brainstorming session. The group decided that the design philosophy of this project is going to be, 'simple is best.' One of our peripheral goals is to have a user interface that is simple, streamlined and functional. We hope that a new user will be able to intuitively use the site with little to no instruction.
