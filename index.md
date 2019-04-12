@@ -20,12 +20,20 @@ The main goal of this project is to use software engineering to create a platfor
 Below are screen shots from our site that is being hosted by Galaxy. The group split up and covered different topis including an about us page, club and report pages, admin and organizer pages, and the search page which have all been added. Moving forward we are discussing issues and concerns each of us have with the functionality of certain pages.
 
 <p align="center">
-<img src='https://myuh-club.github.io/images/landing.png' width='700' height='400'/>
+<img src='https://myuh-club.github.io/images/unsignedLanding.png' width='700' height='400'/>
 </p>
 
-<h5>Landing Page (signed in as admin)</h5>
+<h5>Landing Page</h5>
 
-Above is the image you'd see when first signed in as an admin (Landing page). As of this image the view report page and edit club page are still under maintenance.
+Above is the image you'd see when you first load the site. 
+
+<p align="center">
+<img src='https://myuh-club.github.io/images/LandingPage.png' width='700' height='400'/>
+</p>
+
+<h5>Landing Page</h5>
+
+Above is a visual representation of the difference in the navigation bar between signed in users and admins. As of this image the view report page and edit club page are still under maintenance.
 
 <p align="center">
 <img src='https://myuh-club.github.io/images/homepage.png' width='700' height='400' centered>
