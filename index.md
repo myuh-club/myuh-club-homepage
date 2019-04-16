@@ -10,6 +10,9 @@
 ## Goals 
 The main goal of this project is to use software engineering to create a platform of effective communication for the University of Hawaii's various extra curriculur activities. [There are over 200 RIOs (Registered Indepedent Organizations) affiliated with UH Manoa](http://www.manoa.hawaii.edu/studentlife/studentorg/rio.php), which can be overwhelming to students attempting to determine which clubs to join. If we are able to gather and present information about the RIOS on campus in a simple but effective manner, as this may increase a student's opportunity to find a RIO that matches their interests.
 
+## User Guide
+put the user guide here
+
 ## Services 
 - Provide a master list of all clubs
 - Provide filters for users to search for clubs based on certain interests or majors
