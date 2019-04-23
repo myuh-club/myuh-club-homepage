@@ -1,3 +1,4 @@
+## Overview
 
 [Find our project source code here.](https://github.com/myuh-club/myuh-club.github.io)
 
@@ -7,7 +8,9 @@
 
 [Find our project milestone 2 here.](https://github.com/myuh-club/myuh-club-source/projects/2)
 
-## Overview
+[Find our project milestone 3 here.](https://github.com/myuh-club/myuh-club-source/projects/3)
+
+
 The main goal of this project is to use software engineering to create a platform of effective communication for the University of Hawaii's various extra curriculur activities. [There are over 200 RIOs (Registered Indepedent Organizations) affiliated with UH Manoa](http://www.manoa.hawaii.edu/studentlife/studentorg/rio.php), which can be overwhelming to students attempting to determine which clubs to join. If we are able to gather and present information about the RIOS on campus in a simple but effective manner, as this may increase a student's opportunity to find a RIO that matches their interests.
 This application should:
 - Provide a master list of all clubs
@@ -16,14 +19,72 @@ This application should:
 - allow club organizers to edit their club's information
 
 ## User Guide
-put the user guide here
+<h4>Welcome to the application!</h4>
+If you [go to our deployed application here,](http://myuhclub.meteorapp.com) the first page you will see is the landing page.
+<h5>Landing Page</h5>
+
+<p align="center">
+<img src='https://myuh-club.github.io/images/unsignedLanding.png' width='700' height='400'/>
+</p>
+
+From here, the user has 3 options. 
+<h6>Option 1</h6>
+Register an account with MyUH Club.
+<h6>Option 2</h6>
+Sign into the site.
+<h6>Search for Clubs</h6>
 
 ## Developer Guide
-put the developer guide here
+<h4>Downloading</h4>
+Download a copy of the source code. There are a many ways to do this but the most convienient way is to [go to our github project page](https://github.com/myuh-club/myuh-club-source) and click the green button that says "clone or download". Select the option to download ZIP. Next, decompress the zip file with your method of choice.
+
+<h4>Installing</h4>
+Depending on your OS, the instructions for installing the application may differ.
+<h5>Instructions for MAC OS or Linux based systems</h5>
+For Mac or Linux systems, navigate to the directory holding the application. Open up the command line and use the following: 
+
+```
+cd myuh-club-source
+```
+
+Then, navigate to the "app" directory.
+
+```
+cd app
+```
+
+Now that you are in the app directory, run the following command to install meteor:
+
+```
+meteor npm install
+```
+
+Congratulations, you have installed meteor!
+<h5>Instructions for Windows OS</h5>
+Get a new OS.(kidding will change later)
+
+<h4>Running</h4>
+To run the application, navigate to the app directory inside the myuh-club-source directory and enter the following command:
+
+```
+meteor run
+```
+
+or you can use the short hand:
+
+```
+meteor
+```
+
+This process will allow you to run the application locally on your machine. After running the command in the appropriate directory, your command prompt should look something like this:
+
+Now, open a web browser and in the address bar, enter "http://localhost:3000/" and you should be taken to your local application.
+
+<h4>Modifying</h4>
 
 
 
-## Milestone 1
+## The Application in All Its Glory
 Below are screen shots from our site that is being hosted by Galaxy. The group has produced the landing page, a Dashboard page, an About Us page, a Report a Problem page, an Add/Delete page and an Edit page. Moving forward we are discussing issues and concerns each of us have with the functionality of certain pages.
 
 <p align="center">
