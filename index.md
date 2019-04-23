@@ -20,7 +20,7 @@ This application should:
 
 ## User Guide
 <h4>Welcome to the application!</h4>
-If you <a href= http://myuhclub.meteorapp.com/#>go to our application here</a> the first page you will see is the landing page.
+If you [go to our application here](http://myuhclub.meteorapp.com/) the first page you will see is the landing page.
 <h5>Landing Page</h5>
 
 <p align="center">
@@ -59,6 +59,15 @@ Once the user is signed in, the user's capabilities depend on the role they are 
 - can favorite clubs
 - can view favorited clubs
 - can report a problem
+
+## Coming Soon...
+<h5>How to Search for Clubs</h5>
+<h5>How to Favorite a Club</h5>
+<h5>How to View Favorites</h5>
+<h5>How to Edit a Club</h5>
+<h5>How to Add or Delete a Club</h5>
+<h5>How to Report a Problem</h5>
+<h5>How to View Reported Problems</h5>
 
 ## Developer Guide
 <h4>Downloading</h4>
