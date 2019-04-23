@@ -39,6 +39,26 @@ You will be taken to the sign in page where you will be prompted for your inform
 <h6>Option 3: Search for Clubs</h6>
 If you click on the "search" button on the landing page, you will be taken to the search page. You do not have to be a registered user to access this page.
 
+Once the user is signed in, the user's capabilities depend on the role they are assigned. Below are the 3 roles users can be assigned.
+
+<h5>Administrators</h5>
+- can favorite clubs
+- can view favorited clubs
+- can report a problem
+- can view reported problems
+- can add or delete clubs
+- can edit clubs
+
+<h5>Club Organizers</h5>
+- can edit their own club
+- can report a problem
+- can favorite clubs
+- can view favorited clubs
+
+<h5>Registered Users</h5>
+- can favorite clubs
+- can view favorited clubs
+- can report a problem
 
 ## Developer Guide
 <h4>Downloading</h4>
