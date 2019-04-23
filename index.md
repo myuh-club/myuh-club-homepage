@@ -7,17 +7,21 @@
 
 [Find our project milestone 2 here.](https://github.com/myuh-club/myuh-club-source/projects/2)
 
-## Goals 
+## Overview
 The main goal of this project is to use software engineering to create a platform of effective communication for the University of Hawaii's various extra curriculur activities. [There are over 200 RIOs (Registered Indepedent Organizations) affiliated with UH Manoa](http://www.manoa.hawaii.edu/studentlife/studentorg/rio.php), which can be overwhelming to students attempting to determine which clubs to join. If we are able to gather and present information about the RIOS on campus in a simple but effective manner, as this may increase a student's opportunity to find a RIO that matches their interests.
-
-## User Guide
-put the user guide here
-
-## Services 
+This application should:
 - Provide a master list of all clubs
 - Provide filters for users to search for clubs based on certain interests or majors
 - allow users to add clubs they are interested in to their favorites
 - allow club organizers to edit their club's information
+
+## User Guide
+put the user guide here
+
+## Developer Guide
+put the developer guide here
+
+
 
 ## Milestone 1
 Below are screen shots from our site that is being hosted by Galaxy. The group has produced the landing page, a Dashboard page, an About Us page, a Report a Problem page, an Add/Delete page and an Edit page. Moving forward we are discussing issues and concerns each of us have with the functionality of certain pages.
