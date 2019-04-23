@@ -167,34 +167,6 @@ Above is a screenshot of the "Add/Delete Clubs" page. This page is accesible to 
 
 [Find the Add/Delete Clubs page here.](http://myuhclub.meteorapp.com/#/aD) Be advised the user will not be able to see this page if they are not logged in as an admin. The user will be redirected to the sign in page.
 
-## Rough Draft
-Below are rough sketches the group composed during a brainstorming session. The group decided that the design philosophy of this project is going to be, 'simple is best.' One of our peripheral goals is to have a user interface that is simple, streamlined and functional. We hope that a new user will be able to intuitively use the site with little to no instruction.
-
-<p align="center">
-<img src='https://myuh-club.github.io/images/nic.jpg' width='500' height='400'/>
-</p>
-
-<h5>Rough Sketch 1</h5>
-
-Above we can see sketches from the first group meeting that envision the possible designs for the landing page.
-
-<p align="center">
-<img src='https://myuh-club.github.io/images/sketch2.jpg' width='500' height='400' centered>
-</p>
-
-
-<h5>Rough Sketch 2</h5>
-
-Above is a bulleted list of components we wanted to have for the landing page. The group eventually agreed that the two boxes portrayed in the sketch currently will be implemented on two seperate pages. The top box will be the links for the landing page and the box on the bottom will be the basis of a registered user's homepage.
-
-
-<p align="center">
-<img src='https://myuh-club.github.io/images/sketch1.jpg' width='500' height='400' centered>
-</p>
-
-<h5>Rough Sketch 3</h5> 
-
-Above is another sketch in the bulleted list format. 
 
 ## Developers
 - Yusuke Hatanaka (yusukemh@hawaii.edu)
