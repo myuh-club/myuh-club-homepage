@@ -37,6 +37,8 @@ Click on the top right hand button that says "Login" and select "Login" from the
 You will be taken to the sign in page where you will be prompted for your informaiton.
 
 <h6>Option 3: Search for Clubs</h6>
+If you click on the "search" button on the landing page, you will be taken to the search page. You do not have to be a registered user to access this page.
+
 
 ## Developer Guide
 <h4>Downloading</h4>
