@@ -20,7 +20,7 @@ This application should:
 
 ## User Guide
 <h4>Welcome to the application!</h4>
-If you [go to our deployed application here,](http://myuhclub.meteorapp.com) the first page you will see is the landing page.
+If you <a href= http://myuhclub.meteorapp.com/#>go to our application here</a> the first page you will see is the landing page.
 <h5>Landing Page</h5>
 
 <p align="center">
@@ -28,11 +28,15 @@ If you [go to our deployed application here,](http://myuhclub.meteorapp.com) the
 </p>
 
 From here, the user has 3 options. 
-<h6>Option 1</h6>
-Register an account with MyUH Club.
-<h6>Option 2</h6>
-Sign into the site.
-<h6>Search for Clubs</h6>
+<h6>Option 1: Register An Account with MyUH Club.</h6>
+Click on the top right hand button that says "Login" and select "Register" from the dropdown menu.
+You will be taken to the sign up page where you will be prompted for your information.
+
+<h6>Option 2: Sign Into the Site</h6>
+Click on the top right hand button that says "Login" and select "Login" from the dropdown menu.
+You will be taken to the sign in page where you will be prompted for your informaiton.
+
+<h6>Option 3: Search for Clubs</h6>
 
 ## Developer Guide
 <h4>Downloading</h4>
@@ -81,7 +85,7 @@ This process will allow you to run the application locally on your machine. Afte
 Now, open a web browser and in the address bar, enter "http://localhost:3000/" and you should be taken to your local application.
 
 <h4>Modifying</h4>
-
+You are able to modify your local source code as much as you wish. 
 
 
 ## The Application in All Its Glory
