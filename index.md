@@ -30,6 +30,7 @@ This application should:
 - Organizer Guide
 
 ## Developer Guide
+<h3> Part One </h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NgFiNuusjdc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h2>Text Version</h2>
@@ -74,8 +75,8 @@ meteor
 
 This process will allow you to run the application locally on your machine. After running the command in the appropriate directory, open a web browser and in the address bar, enter "http://localhost:3000/" and you should be taken to your local application.
 
-<h3>Coming Soon...</h3>
-Modifying the Source Code
+<h3>Part Two</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ge8e6abnw8k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Developers
 - Yusuke Hatanaka (yusukemh@hawaii.edu)
