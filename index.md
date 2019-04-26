@@ -19,55 +19,12 @@ This application should:
 - allow club organizers to edit their club's information
 
 ## User Guide
-<h4>Welcome to the application!</h4>
-If you [go to our application here](http://myuhclub.meteorapp.com/) the first page you will see is the landing page.
-<h5>Landing Page</h5>
 
-<p align="center">
-<img src='https://myuh-club.github.io/images/unsignedLanding.png' width='700' height='400'/>
-</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Fo6W-OmDLg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-From here, the user has 3 options. 
-<h6>Option 1: Register An Account with MyUH Club.</h6>
-Click on the top right hand button that says "Login" and select "Register" from the dropdown menu.
-You will be taken to the sign up page where you will be prompted for your information.
-
-<h6>Option 2: Sign Into the Site</h6>
-Click on the top right hand button that says "Login" and select "Login" from the dropdown menu.
-You will be taken to the sign in page where you will be prompted for your informaiton.
-
-<h6>Option 3: Search for Clubs</h6>
-If you click on the "search" button on the landing page, you will be taken to the search page. You do not have to be a registered user to access this page.
-
-Once the user is signed in, the user's capabilities depend on the role they are assigned. Below are the 3 roles users can be assigned.
-
-<h5>Administrators</h5>
-- can favorite clubs
-- can view favorited clubs
-- can report a problem
-- can view reported problems
-- can add or delete clubs
-- can edit clubs
-
-<h5>Club Organizers</h5>
-- can edit their own club
-- can report a problem
-- can favorite clubs
-- can view favorited clubs
-
-<h5>Registered Users</h5>
-- can favorite clubs
-- can view favorited clubs
-- can report a problem
 
 ## Coming Soon...
-<h5>How to Search for Clubs</h5>
-<h5>How to Favorite a Club</h5>
-<h5>How to View Favorites</h5>
-<h5>How to Edit a Club</h5>
-<h5>How to Add or Delete a Club</h5>
-<h5>How to Report a Problem</h5>
-<h5>How to View Reported Problems</h5>
+- Organizer Guide
 
 ## Developer Guide
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NgFiNuusjdc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
