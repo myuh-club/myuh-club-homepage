@@ -23,13 +23,10 @@ This application should:
 <h3> Basic User Guide </h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9Fo6W-OmDLg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h4>Text Version</h4>
-
 <h3>Administrator User Guide </h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k331oOxse8k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h4>Text Version</h4>
-## Coming Soon...
+<h3>Coming Soon...</h3>
 - Organizer Guide
 
 ## Developer Guide
