@@ -70,6 +70,8 @@ Once the user is signed in, the user's capabilities depend on the role they are 
 <h5>How to View Reported Problems</h5>
 
 ## Developer Guide
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NgFiNuusjdc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <h4>Downloading</h4>
 Download a copy of the source code. There are a many ways to do this but the most convienient way is to [go to our github project page](https://github.com/myuh-club/myuh-club-source) and click the green button that says "clone or download". Select the option to download ZIP. Next, decompress the zip file with your method of choice.
 
