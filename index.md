@@ -97,8 +97,6 @@ meteor npm install
 ```
 
 Congratulations, you have installed meteor!
-<h5>Instructions for Windows OS</h5>
-Get a new OS.(kidding will change later)
 
 <h4>Running</h4>
 To run the application, navigate to the app directory inside the myuh-club-source directory and enter the following command:
