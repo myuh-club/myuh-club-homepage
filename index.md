@@ -73,7 +73,7 @@ meteor
 This process will allow you to run the application locally on your machine. After running the command in the appropriate directory, open a web browser and in the address bar, enter "http://localhost:3000/" and you should be taken to your local application.
 
 <h3>Coming Soon...</h3>
-- Modifying the Source Code
+Modifying the Source Code
 
 ## Developers
 - Yusuke Hatanaka (yusukemh@hawaii.edu)
