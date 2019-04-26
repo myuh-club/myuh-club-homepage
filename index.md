@@ -20,9 +20,11 @@ This application should:
 
 ## User Guide
 
+<h3> Basic User Guide </h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9Fo6W-OmDLg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+<h3>Administrator User Guide </h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k331oOxse8k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## Coming Soon...
 - Organizer Guide
 
