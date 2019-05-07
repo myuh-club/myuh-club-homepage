@@ -21,13 +21,14 @@ This application should:
 ## User Guide
 
 <h3> Basic User Guide </h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xLCdlwvan5M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<h3>Administrator User Guide </h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iip9WIzMMu8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G-K8V5V9JyE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h3>Organizer Guide</h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nt1_x7ww764" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2l5tzxpDDVs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h3>Administrator User Guide </h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wb_R-7jhun8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 ## Community Feedback
