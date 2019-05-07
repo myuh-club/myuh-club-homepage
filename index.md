@@ -49,6 +49,8 @@ For the Google form, we asked the particpants a combination of closed and open e
  <img src = https://myuh-club.github.io/images/userresponse1.png />
 </p>
 
+Above we have an image of the tallied responses from the Google forms. According to our survey, all 6 of our particpants found the site easy to use. 
+
 ## Developer Guide
 <h3> Part One </h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NgFiNuusjdc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
