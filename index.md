@@ -39,7 +39,7 @@ Our testing process is as follows:
 1. The person administering the test will have the participant watch the Basic User Guide video tutorial.
 2. After watching the tutorial, administers will instruct participants to register an account and log in.
 3. Administers will instruct participants to navigate to the pages available to them.
-4. Administers will instruct the participants to utilize the Report a Problem Page to submit a report.
+4. Administers will instruct the participants to utilize the Report a Problem Page to submit a report. The tasks were to register, log in, and to submit a report.
 5. Administers instruct the participant to log out.
 6. Lastly, the participants will fill out a Google form questionnaire pertainning to their experiences with the application. 
 
@@ -74,7 +74,7 @@ Above is an image of the various reasons for the participants answers about the 
 </p>
 
 Finally, the image above is one containing various user's feedback from the user survey. 
-
+Based on the user testing, we can conclude that the participants found the site easy to navigate, after they had been given proper instructions. When this project began, ease of use and simplicity was the main goal for our team. Due to the responses from the user testing, it is safe to say we have achieved our main goal. 
 
 ## Developer Guide
 <h3> Part One </h3>
