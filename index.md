@@ -45,6 +45,9 @@ Our testing process is as follows:
 
 For the Google form, we asked the particpants a combination of closed and open ended questions in regards to the application. 
 
+<p align="center">
+ <img src = https://myuh-club.github.io/images/userresponse1.png />
+</p>
 
 ## Developer Guide
 <h3> Part One </h3>
