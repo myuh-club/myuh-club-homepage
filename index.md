@@ -83,8 +83,8 @@ This process will allow you to run the application locally on your machine. Afte
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ge8e6abnw8k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Developers
-- Yusuke Hatanaka (yusukemh@hawaii.edu)
-- Ronnie Kauanoe (rkauanoe@hawaii.edu)
-- Nick Miyamoto-Pennywell (nkmp@hawaii.edu)
-- Quinne Uchida (qauchida@hawaii.edu)
+- [Yusuke Hatanaka](https://yusukemh.github.io/)
+- [Ronnie Kauanoe](https://ronnie-kauanoe.github.io/)
+- [Nick Miyamoto-Pennywell](https://nicholasmp.github.io/)
+- [Quinne Uchida](https://qauchida.github.io/)
 
