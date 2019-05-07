@@ -43,7 +43,7 @@ Our testing process is as follows:
 5. Administers instruct the participant to log out.
 6. Lastly, the participants will fill out a Google form questionnaire pertainning to their experiences with the application. 
 
-For the Google form, we asked the user a combination of closed and open ended questions in regards to the application. 
+For the Google form, we asked the particpants a combination of closed and open ended questions in regards to the application. 
 
 
 ## Developer Guide
