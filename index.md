@@ -29,6 +29,10 @@ This application should:
 <h3>Coming Soon...</h3>
 - Organizer Guide
 
+## Community Feedback
+
+The group conducted user testing to 6 different individuals. 
+
 ## Developer Guide
 <h3> Part One </h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NgFiNuusjdc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
