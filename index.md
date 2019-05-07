@@ -29,9 +29,21 @@ This application should:
 <h3>Organizer Guide</h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Nt1_x7ww764" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 ## Community Feedback
 
-The group conducted user testing to 6 different individuals. 
+The group conducted user testing for 6 individuals from various backgrounds.
+
+Our testing process is as follows:
+1. The person administering the test will have the participant watch the Basic User Guide video tutorial.
+2. After watching the tutorial, administers will instruct participants to register an account and log in.
+3. Administers will instruct participants to navigate to the pages available to them.
+4. Administers will instruct the participants to utilize the Report a Problem Page to submit a report.
+5. Administers instruct the participant to log out.
+6. Lastly, the participants will fill out a Google form questionnaire pertainning to their experiences with the application. 
+
+For the Google form, we asked the user a combination of closed and open ended questions in regards to the application. 
+
 
 ## Developer Guide
 <h3> Part One </h3>
