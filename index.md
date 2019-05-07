@@ -51,6 +51,31 @@ For the Google form, we asked the particpants a combination of closed and open e
 
 Above we have an image of the tallied responses from the Google forms. According to our survey, all 6 of our particpants found the site easy to use. 
 
+<p align="center">
+ <img src = https://myuh-club.github.io/images/userresponse2.png />
+</p>
+
+Above is an image of the various reasons the participants found the site easy to use.
+
+<p align="center">
+ <img src = https://myuh-club.github.io/images/userresponse3.png />
+</p>
+
+Above is an image of the resuts of another survey question inquiring about the user's experiences completeing the tasks assigned to them. 
+
+<p align="center">
+ <img src = https://myuh-club.github.io/images/userresponse4.png />
+</p>
+
+Above is an image of the various reasons for the participants answers about the difficulty of the tasks assigned to them.
+
+<p align="center">
+ <img src = https://myuh-club.github.io/images/userresponse5.png />
+</p>
+
+Finally, the image above is one containing various user's feedback from the user survey. 
+
+
 ## Developer Guide
 <h3> Part One </h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NgFiNuusjdc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
