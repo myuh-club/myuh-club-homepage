@@ -26,8 +26,8 @@ This application should:
 <h3>Administrator User Guide </h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k331oOxse8k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h3>Coming Soon...</h3>
-- Organizer Guide
+<h3>Organizer Guide</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nt1_x7ww764" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Community Feedback
 
