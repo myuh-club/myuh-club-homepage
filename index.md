@@ -45,33 +45,30 @@ Our testing process is as follows:
 
 For the Google form, we asked the particpants a combination of closed and open ended questions in regards to the application. 
 
-<p align="center">
- <img src = https://myuh-club.github.io/images/userresponse1.png />
-</p>
+![](https://myuh-club.github.io/images/userresponse1.png)
+
+
 
 Above we have an image of the tallied responses from the Google forms. According to our survey, all 6 of our particpants found the site easy to use. 
+![](https://myuh-club.github.io/images/userresponse2.png)
 
-<p align="center">
- <img src = https://myuh-club.github.io/images/userresponse2.png />
-</p>
 
 Above is an image of the various reasons the participants found the site easy to use.
 
-<p align="center">
- <img src = https://myuh-club.github.io/images/userresponse3.png />
-</p>
+![](https://myuh-club.github.io/images/userresponse3.png)
+
 
 Above is an image of the resuts of another survey question inquiring about the user's experiences completeing the tasks assigned to them. 
 
-<p align="center">
- <img src = https://myuh-club.github.io/images/userresponse4.png />
-</p>
+
+![](img src = https://myuh-club.github.io/images/userresponse4.png)
+
 
 Above is an image of the various reasons for the participants answers about the difficulty of the tasks assigned to them.
 
-<p align="center">
- <img src = https://myuh-club.github.io/images/userresponse5.png />
-</p>
+
+![](img src = https://myuh-club.github.io/images/userresponse5.png)
+
 
 Finally, the image above is one containing various user's feedback from the user survey. 
 Based on the user testing, we can conclude that the participants found the site easy to navigate, after they had been given proper instructions. When this project began, ease of use and simplicity was the main goal for our team. Due to the responses from the user testing, it is safe to say we have achieved our main goal. 
