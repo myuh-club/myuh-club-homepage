@@ -61,13 +61,13 @@ Above is an image of the various reasons the participants found the site easy to
 Above is an image of the resuts of another survey question inquiring about the user's experiences completeing the tasks assigned to them. 
 
 
-![](img src = https://myuh-club.github.io/images/userresponse4.png)
+![](https://myuh-club.github.io/images/userresponse4.png)
 
 
 Above is an image of the various reasons for the participants answers about the difficulty of the tasks assigned to them.
 
 
-![](img src = https://myuh-club.github.io/images/userresponse5.png)
+![](https://myuh-club.github.io/images/userresponse5.png)
 
 
 Finally, the image above is one containing various user's feedback from the user survey. 
